@@ -1,1 +1,1 @@
-pequeno crud em espring boot utilizando flyway,jpa,my sql e etc
+pequeno crud em spring boot utilizando flyway,jpa,my sql e etc
